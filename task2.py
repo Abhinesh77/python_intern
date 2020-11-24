@@ -1,0 +1,10 @@
+a=b=c=100
+print("a/10=",a/10)
+print("b*50=",b*50)
+print("c+60=",c+60)
+name="abcde"
+print(name[:2]+"g"+name[3:])
+n=5
+m=6.0
+print(float(n))
+print(int(m))
